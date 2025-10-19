@@ -5,8 +5,9 @@
   <a href="#"> Paper📝(soon) </a>
 
 
-![Alt text](Assets/IslamTrust_Logo.png)
-
+<p align="center">
+  <img src="Assets/IslamTrust_Logo.png" alt="Logo" width="400"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/abderraouf-000/IslamTrust-benchmark/blob/main/LICENSE">
