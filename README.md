@@ -5,7 +5,7 @@
   <a href="#"> Paper📝(soon) </a>
 
 
-![Alt text]("Assets/IslamTrust Logo.png")
+![Alt text](Assets/IslamTrust_Logo.png)
 
 
 <p align="center">
