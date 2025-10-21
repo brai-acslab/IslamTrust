@@ -1,5 +1,5 @@
 
-  <h1>IslamTrust: Evaluating LLMs alignment with Islamic values</h1>
+  <h1>IslamTrust: A Benchmark for LLMs Alignment with Islamic Values</h1>
   <a href="#">Leaderboard (Soon)</a> 📐 |
   <a href="#">Evaluation Dataset (Coming to huggingface soon)</a> |
   <a href="#"> Paper📝(soon) </a>
