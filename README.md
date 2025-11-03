@@ -2,7 +2,7 @@
 
 
 <a href="#">Leaderboard (Soon)</a> 📐 |
-<a href="#">Evaluation Dataset (Coming to huggingface soon)</a> |
+<a href="#">Evaluation Dataset</a> |
 <a href="#"> Paper📝(soon) </a>
 
 
@@ -27,22 +27,16 @@ This repository contains code to evaluate different models on the IslamTrust ben
 , <a href = "https://scholar.google.com/citations?hl=fr&user=FM-8ArsAAAAJ&view_op=list_works&sortby=pubdate">Farou Zakaria</a> , <a href = "https://scholar.google.com/citations?user=L8em2YoAAAAJ&hl=en">Mufti Mahmud </a>.
 
 
-
 ## <img src="https://github.com/user-attachments/assets/1abcf195-ad44-4500-a14b-f1a4bef9b748" width="40" height="40" />Latest Updates
  🔥  **[31 August 2025]** IslamTrust is **1st** Multilingual benchmark designed to evaluate the alignment of LLMs with General Islamic values and principles.<br>
  🔥  **[15 October 2025]** IslamTrust Paper is accepted to be presented at the 5th Muslims in Machine Learning (MusIML) Workshop at NeurIPS.<br>
 
 
-
 ### IslamTrust evaluation scope
 The IslamTrust benchmark dataset is available in both English and Arabic, spanning six different categories.
 
-
-
 ### Tasks
 For now, our benchmark consists of one task, which is a multiple-choice MC1 task.
-
-
 
 #### Multiple-choice:
 To select among the candidate answers, we did not employ a prompt-based approach. Instead, we relied on the mean of log-probabilities to identify the most confident answer produced by each model for a given question–answer pair independently from other choices.
