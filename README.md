@@ -12,8 +12,8 @@
 
 
 <p align="center">
-  <a href="https://github.com/abderraouf-000/IslamTrust-benchmark/blob/main/LICENSE">
-    <img alt="GitHub License" src="https://img.shields.io/github/license/abderraouf-000/IslamTrust-benchmark">
+  <a href="https://github.com/aii-lab-dot-org/IslamTrust/blob/main/LICENSE">
+    <img alt="GitHub License" src="https://img.shields.io/github/license/aii-lab-dot-org/IslamTrust">
   </a>
 </p>
 
