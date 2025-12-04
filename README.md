@@ -3,7 +3,7 @@
 
 <a href="#">Leaderboard (Soon)</a> 📐 |
 <a href="https://huggingface.co/datasets/Abderraouf000/IslamTrust-benchmark">Evaluation Dataset</a> |
-<a href="https://openreview.net/pdf?id=PBcv90iKFB"> Paper📝(soon) </a>
+<a href="https://openreview.net/pdf?id=PBcv90iKFB"> Paper📝</a>
 
 
 <p align="center">
