@@ -50,8 +50,4 @@ For HuggingFace-supported models, the multiple-choice benchmark score can be cal
 ## <img src="https://github.com/user-attachments/assets/08e47f66-e0aa-49b5-b886-ad65ae7a6faa" width="30" height="30" /> Citation
 If you use the IslamTrust dataset in your research, please consider citing:
 
-@inproceedings{lahmar2025islamtrust,
-  title={IslamTrust: A Benchmark for LLMs Alignment with Islamic Values},
-  author={Lahmar, Abderraouf and Arafat, Md Easin and Farou, Zakarya and Mahmud, Mufti},
-  booktitle={5th Muslims in ML Workshop co-located with NeurIPS 2025}
-}\]\
+**Lahmar, A., Arafat, M.E., Farou, Z., & Mahmud, M.** (2025). *IslamTrust: A Benchmark for LLMs Alignment with Islamic Values*. In **5th Muslims in ML Workshop**, co-located with **NeurIPS 2025**.
